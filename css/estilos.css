@@ -1,0 +1,39 @@
+*
+{
+
+}
+
+body 
+{
+}
+
+h1,h2,h3,h4,h5
+{
+	color: red;
+}
+
+h1
+{
+	font-size: 20px;
+}
+
+p
+{
+	color: blue;
+}
+
+p a
+{
+	font-size: 30px;
+}
+
+p .green
+{
+	color: green;
+}
+
+a[href="https:www.google.com"]
+{
+	color: green;
+	font-size: 30px;
+}
