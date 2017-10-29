@@ -1,0 +1,14 @@
+p
+{
+	color: orange;
+	font-family: Arial, Helvetica, Verdana, sans-serif, "Myriad Pro";
+	font-size:20px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 20px; /*Interlineado*/
+	text-decoration: underline;
+	text-transform: uppercase;
+	letter-spacing: 20px;
+	word-spacing: normal;
+	text-shadow: 5px 5px 5px black;
+}
