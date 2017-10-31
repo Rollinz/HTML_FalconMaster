@@ -1,9 +1,16 @@
+body
+{
+	width: 100%;
+}
 form
 {
+	align-content: center;
 	width:25%;
 	border:1px solid #ccc;
-	margin:20px;
+	border-radius: 10px;
+	margin:0 auto;
 	padding:20px;
+	font-family: verdana;
 }
 
 label
@@ -16,6 +23,7 @@ label
 input, textarea
 {
 	margin-bottom:20px;
+	border-radius: 5px;
 	width:100%;
 	padding:10px;
 	box-sizing: border-box;
@@ -38,6 +46,7 @@ input:focus, textarea:focus
 input[type="submit"]
 {
 	margin-bottom: 0px;
+	border-radius: 5px;
 	background: #1558C4;
 	color: #fff;
 	border: none;
